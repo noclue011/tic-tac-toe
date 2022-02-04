@@ -1,6 +1,8 @@
 # Project Name
 This was a tutorial project done to further learn how to use the React Javascript library. The project consists of a basic tic-tac-toe game with extra features like going back to previous moves played. 
 
+Project live at https://noclue011.github.io/tic-tac-toe/
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -30,7 +32,9 @@ The purpose of this project was to serve as training for me to further learn Rea
 
 
 ## Setup
-To run this project, install it locally using npm:
+Project is live at https://noclue011.github.io/tic-tac-toe/
+
+To run this project on your local device, install it locally using npm:
 
 ~~~
 
